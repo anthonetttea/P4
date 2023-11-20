@@ -11,7 +11,7 @@
 <body>
 
     <div class="navbar">
-        <a href="#AAP4.html">Home</a>
+        <a href="AAP4.html">Home</a>
         <a href="P4-shop.html">Shop</a>
         <a href="P4-FAQ.html">FAQ</a>
         <a href="P4-contact.html">Contact Us</a>
