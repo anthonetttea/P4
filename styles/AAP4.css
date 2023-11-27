@@ -72,3 +72,15 @@ h1 h3
 {
     color:#9f6449
 }
+
+footer{
+    background-color: #281005;
+    color:#9f6449;
+    text-align: center;
+    padding: 1em;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+
+
+}
