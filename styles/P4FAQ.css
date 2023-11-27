@@ -116,7 +116,8 @@ img
     display: block;
 }
 
-footer{
+footer
+{
     background-color: #281005;
     color:#9f6449;
     text-align: center;
@@ -124,6 +125,4 @@ footer{
     position: relative;
     width: 100%;
     bottom: 0;
-
-
 }
