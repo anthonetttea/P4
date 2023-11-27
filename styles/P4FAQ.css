@@ -121,7 +121,7 @@ footer{
     color:#9f6449;
     text-align: center;
     padding: 1em;
-    position: fixed;
+    position: relative;
     width: 100%;
     bottom: 0;
 
