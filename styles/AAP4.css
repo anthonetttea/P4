@@ -1,4 +1,33 @@
 /* DEVELOPER: Anthonette Akinyemi, IS117-001, Fall 2023*/
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:10px;
+    color:rgb(49, 26, 5);
+    
+    
+  }
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: rgb(116, 72, 31);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 16px;
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }
+
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
